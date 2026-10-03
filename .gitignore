@@ -27,6 +27,7 @@ skidl-test-legacy/
 
 *.json
 *.jsonl
+/data
 
 gptoss_training/gpt-oss-20b-multilingual-reasoner
 gptoss_training/gpt-oss-20b-pcb-schematic
